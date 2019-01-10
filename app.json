@@ -1,15 +1,7 @@
 {
-  "name": "express-getstarted",
-  "scripts": {},
-  "formation": {
-    "web": {
-      "quantity": 1
-    }
-  },
-  "addons": [
-
-  ],
-  "buildpacks": [{
-    "url": "heroku/nodejs"
-  }]
+  "name": "Button Sample",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/heroku/button-sample",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
 }
