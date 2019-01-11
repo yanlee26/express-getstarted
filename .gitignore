@@ -16,5 +16,3 @@ data
 
 # don't store SSL certs in repo!
 ssl
-# ignore
-yarn.lock
