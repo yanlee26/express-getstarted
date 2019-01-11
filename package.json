@@ -16,8 +16,8 @@
     "url": "https://github.com/EthanRBrown/web-development-with-node-and-express/issues"
   },
   "engines": {
-    "node": "^4.0.0",
-    "npm": "^3.0.0"
+    "node": "^10.0.0",
+    "npm": "^4.0.0"
   },
   "homepage": "https://github.com/EthanRBrown/web-development-with-node-and-express",
   "dependencies": {
